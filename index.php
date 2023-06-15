@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Free Bootstrap Themes by Zerotheme dot com - Free Responsive Html5 Templates">
+    <meta name="description" content="olatunde ajibayo ewuola">
     <meta name="author" content="olatunde ajibayo ewuola">
 	
     <title>Eolatunde</title>
@@ -48,9 +48,9 @@
 				</div>
 				<div class="col-md-6">
 					<ul class="list-inline top-link link">
-						<li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+						<li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
 						<li><a href="#"><i class="fa fa-question-circle"></i> About Me</a></li>
-						<li><a href="contact.html"><i class="fa fa-comments"></i> Get Intouch With Me</a></li>
+						<li><a href="contact.php"><i class="fa fa-comments"></i> Get Intouch With Me</a></li>
 						<li><a href="#"><i class="fa fa-question-circle"></i> FAQ</a></li>
 					</ul>
 				</div>
@@ -164,7 +164,7 @@
 	<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Login <i class="fa fa-arrow-circle-o-down"></i></a>
 					<div class="dropdown-menu">
 						<div class="dropdown-inner">
@@ -179,8 +179,8 @@
 					<div class="dropdown-menu">
 						<div class="dropdown-inner">
 							<ul class="list-unstyled">
-								<li><a href="archive.html">Tutorial Videos</a></li>
-								<li><a href="archive.html">Personal Vlog</a></li>
+								<li><a href="archive.php">Tutorial Videos</a></li>
+								<li><a href="archive.php">Personal Vlog</a></li>
 							</ul>
 						</div> 
 					</div>
@@ -189,7 +189,7 @@
 					<div class="dropdown-menu" style="margin-left: -203.625px;">
 						<div class="dropdown-inner">
 							<ul class="list-unstyled">
-								<li><a href="archive.html">Text 301</a></li>
+								<li><a href="archive.php">Text 301</a></li>
 								<li><a href="archive.html">Text 302</a></li>
 								<li><a href="archive.html">Text 303</a></li>
 								<li><a href="archive.html">Text 304</a></li>
@@ -213,7 +213,7 @@
 					</div>
 				</li>
 				<li><a href="#"><i class="fa fa-cubes"></i> Blocks</a></li>
-				<li><a href="contact.html"><i class="fa fa-envelope"></i> Get Intouch With Me</a></li>
+				<li><a href="contact.php"><i class="fa fa-envelope"></i> Get Intouch With Me</a></li>
 			</ul>
 			<div class="col-sm-3 col-md-3 navbar-right">
 				<form class="navbar-form" role="search">
@@ -243,7 +243,7 @@
 							<div class="post-thumbnail-wrap"><a href="single.html"><img src="images/4.jpg" /></a></div>
 							<div class="entry-content">
 								<p>Marshall, Will, and Holly on a routine expedition, met the greatest earthquake ever known. High on the rapids, it struck their tiny raft! And plunged them down a thousand feet below</p>
-								<a href="single.html">More...</a>
+								<a href="single.php">More...</a>
 							</div>
 						</article>
 						<article>
@@ -252,10 +252,10 @@
 								<h3 class="entry-title"><a href="#">Marshall, Will, and Holly on a Routine Expedition</a></h3>
 								<span><i class="fa fa-heart"></i> 1,200 / <i class="fa fa-calendar"></i> 25/3/2016 / <i class="fa fa-comment-o"></i> 10 / <i class="fa fa-eye"></i> 945</span>
 							</div>
-							<div class="post-thumbnail-wrap"><a href="single.html"><img src="images/6.jpg" /></a></div>
+							<div class="post-thumbnail-wrap"><a href="single.php"><img src="images/6.jpg" /></a></div>
 							<div class="entry-content">
 								<p>Marshall, Will, and Holly on a routine expedition, met the greatest earthquake ever known. High on the rapids, it struck their tiny raft! And plunged them down a thousand feet below</p>
-								<a href="single.html">More...</a>
+								<a href="single.php">More...</a>
 							</div>
 						</article>
 						<article>
@@ -267,7 +267,7 @@
 							<div class="post-thumbnail-wrap"><a href="single.html"><img src="images/11.jpg" /></a></div>
 							<div class="entry-content">
 								<p>Marshall, Will, and Holly on a routine expedition, met the greatest earthquake ever known. High on the rapids, it struck their tiny raft! And plunged them down a thousand feet below</p>
-								<a href="single.html">More...</a>
+								<a href="single.php">More...</a>
 							</div>
 						</article>
 						<article>
@@ -279,7 +279,7 @@
 							<div class="post-thumbnail-wrap"><a href="single.html"><img src="images/13.jpg" /></a></div>
 							<div class="entry-content">
 								<p>Marshall, Will, and Holly on a routine expedition, met the greatest earthquake ever known. High on the rapids, it struck their tiny raft! And plunged them down a thousand feet below</p>
-								<a href="single.html">More...</a>
+								<a href="single.php">More...</a>
 							</div>
 						</article>
 					</div>
@@ -290,10 +290,10 @@
 								<h3 class="entry-title"><a href="#">Your Tread Must be Light and Sure as Though Your Path...</a></h3>
 								<span><i class="fa fa-heart"></i> 1,200 / <i class="fa fa-calendar"></i> 25/3/2016 / <i class="fa fa-comment-o"></i> 10 / <i class="fa fa-eye"></i> 945</span>
 							</div>
-							<div class="post-thumbnail-wrap"><a href="single.html"><img src="images/7.jpg" /></a></div>
+							<div class="post-thumbnail-wrap"><a href="single.php"><img src="images/7.jpg" /></a></div>
 							<div class="entry-content">
 								<p>There once was a story about a man who could turn invisible. I thought it was only a story??? until it happened to me. Ok, so here???s how it works: there???s this stuff called</p>
-								<a href="single.html">More...</a>
+								<a href="single.php">More...</a>
 							</div>
 						</article>
 						<article>
@@ -302,10 +302,10 @@
 								<h3 class="entry-title"><a href="#">Marshall, Will, and Holly on a Routine Expedition</a></h3>
 								<span><i class="fa fa-heart"></i> 1,200 / <i class="fa fa-calendar"></i> 25/3/2016 / <i class="fa fa-comment-o"></i> 10 / <i class="fa fa-eye"></i> 945</span>
 							</div>
-							<div class="post-thumbnail-wrap"><a href="single.html"><img src="images/10.jpg" /></a></div>
+							<div class="post-thumbnail-wrap"><a href="single.php"><img src="images/10.jpg" /></a></div>
 							<div class="entry-content">
 								<p>Marshall, Will, and Holly on a routine expedition, met the greatest earthquake ever known. High on the rapids, it struck their tiny raft! And plunged them down a thousand feet below</p>
-								<a href="single.html">More...</a>
+								<a href="single.php">More...</a>
 							</div>
 						</article>
 						<article>
@@ -314,10 +314,10 @@
 								<h3 class="entry-title"><a href="#">Marshall, Will, and Holly on a Routine Expedition</a></h3>
 								<span><i class="fa fa-heart"></i> 1,200 / <i class="fa fa-calendar"></i> 25/3/2016 / <i class="fa fa-comment-o"></i> 10 / <i class="fa fa-eye"></i> 945</span>
 							</div>
-							<div class="post-thumbnail-wrap"><a href="single.html"><img src="images/8.jpg" /></a></div>
+							<div class="post-thumbnail-wrap"><a href="single.php"><img src="images/8.jpg" /></a></div>
 							<div class="entry-content">
 								<p>Marshall, Will, and Holly on a routine expedition, met the greatest earthquake ever known. High on the rapids, it struck their tiny raft! And plunged them down a thousand feet below</p>
-								<a href="single.html">More...</a>
+								<a href="single.php">More...</a>
 							</div>
 						</article>
 						<article>
