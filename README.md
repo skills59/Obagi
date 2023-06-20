@@ -1,3 +1,3 @@
 # obagi
-Template Azure app service test 
+Portfolio Template for an Azure app service test project
 https://eolatunde.azurewebsites.net/
